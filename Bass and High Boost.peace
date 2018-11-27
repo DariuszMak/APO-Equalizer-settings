@@ -1,5 +1,3 @@
-[General]
-Configuration Icon=7
 [Speakers]
 SpeakerId0=0
 SpeakerTargets0=all
@@ -43,16 +41,15 @@ Frequency11=8000
 Frequency12=16000
 Frequency13=20000
 [Gains]
-Gain1=2.5
-Gain2=5
-Gain3=5.5
-Gain4=2.5
+Gain1=11.5
+Gain2=6.5
+Gain3=3.5
 Gain5=-2.5
-Gain6=-5
+Gain6=-4.5
 Gain7=-6.5
 Gain8=-7.5
 Gain9=-6
-Gain10=-4
+Gain10=-4.06
 Gain11=-1.5
 Gain12=1.5
 Gain13=4
