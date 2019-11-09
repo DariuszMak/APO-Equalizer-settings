@@ -1,5 +1,5 @@
 [General]
-Configuration Icon=3
+Configuration Icon=5
 PreAmp=-5.5
 [Speakers]
 SpeakerId0=0
@@ -32,13 +32,18 @@ Frequency11=8000
 Frequency12=16000
 Frequency13=20000
 [Gains]
-Gain1=1.5
-Gain2=4.5
-Gain3=9
-Gain4=9.5
-Gain11=1.5
-Gain12=9
-Gain13=9.5
+Gain1=0.8
+Gain2=3.2
+Gain3=4.4
+Gain4=3.2
+Gain5=0.8
+Gain6=-0.8
+Gain7=-2.4
+Gain8=-2.8
+Gain9=-1.6
+Gain11=2.4
+Gain12=4
+Gain13=4
 [Qualities]
 Quality1=1.41
 Quality2=1.41
